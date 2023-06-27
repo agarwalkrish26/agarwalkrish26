@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🧠 Pursuing Data Science in my undergrad degree because apparently, analyzing all that data is more fun than having a social life. Can't wait to unlock the secrets of the universe hidden within those spreadsheets and CSV files.
+
+📚 Always on a quest to learn and get exposed to the industry, because who needs free time and hobbies when you can drown yourself in code and algorithms? Ready to absorb all the knowledge and become the ultimate data guru.
+
+🏋️‍♂️ When I'm not crunching numbers, you'll find me doing some serious lifting at the data gym. Yes, that's right, I'm a data scientist by day and a gym enthusiast by... well, whenever I have the energy. Turns out, deadlifts and debugging have a lot in common – both require strong determination and a solid grip!
