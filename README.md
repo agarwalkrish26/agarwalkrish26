@@ -12,6 +12,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalkrish26&layout=compact&theme=dark)](https://github.com/agarwalkrish26)
 - Python, R, HTML/CSS, JavaScript
 - Flask, Django, React
+- SQL: MySQL Workbench, PostreSQL; NoSQL: MongoDB
 - Git, Jupyter Notebook, Spyder, VS Code
 
 ## My Projects  
