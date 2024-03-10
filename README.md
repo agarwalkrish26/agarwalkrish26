@@ -1,19 +1,6 @@
 ### Hi there 👋
 
-<!--
-**agarwalkrish26/agarwalkrish26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
 
 🧠 Pursuing Data Science in my undergrad degree because apparently, analyzing all that data is more fun than having a social life. Can't wait to unlock the secrets of the universe hidden within those spreadsheets and CSV files.
 
@@ -21,24 +8,15 @@ Here are some ideas to get you started:
 
 🏋️‍♂️ When I'm not crunching numbers, you'll find me doing some serious lifting at the data gym. Yes, that's right, I'm a data scientist by day and a gym enthusiast by... well, whenever I have the energy. Turns out, deadlifts and debugging have a lot in common – both require strong determination and a solid grip!
 
-# Hello, I'm [Your Name] 👋
-
-I'm a passionate software developer with expertise in [Your Skills].
-
-## About Me
-- 💼 Currently working at [Your Company/Institution]
-- 🌱 I’m currently learning [Your Learning Goal]
-- 💬 Ask me about [Your Interests]
-
 ## Languages and Tools
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalkrish26&layout=compact&theme=dark)](https://github.com/agarwalkrish26)
 - Python, JavaScript, HTML/CSS
 - React, Node.js, Django
 - Git, Docker, VS Code
 
 ## My Projects
-### [Project 1 Name](link_to_project_1)
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark)](link_to_project_1)
+### [Arisha's Photo Album](https://github.com/agarwalkrish26/Arisha-s-Photo-Album)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=agarwalkrish26&repo=Arisha-s-Photo-Album&theme=dark)](https://github.com/agarwalkrish26/Arisha-s-Photo-Album)
 Description of Project 1.
 
 ### [Project 2 Name](link_to_project_2)
