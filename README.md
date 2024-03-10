@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Krish Agarwal 👋
 
 ## About Me
 
@@ -10,22 +10,20 @@
 
 ## Languages and Tools
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalkrish26&layout=compact&theme=dark)](https://github.com/agarwalkrish26)
-- Python, JavaScript, HTML/CSS
-- React, Node.js, Django
-- Git, Docker, VS Code
+- Python, R, HTML/CSS, JavaScript
+- Flask, Django, React
+- Git, Jupyter Notebook, Spyder, VS Code
 
-## My Projects
+## My Projects  
+
+### [Labs](https://github.com/agarwalkrish26/Labs)
+[![Labs](https://github-readme-stats.vercel.app/api/pin/?username=agarwalkrish26&repo=Labs&theme=dark)](https://github.com/agarwalkrish26/Labs)  
+
 ### [Arisha's Photo Album](https://github.com/agarwalkrish26/Arisha-s-Photo-Album)
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=agarwalkrish26&repo=Arisha-s-Photo-Album&theme=dark)](https://github.com/agarwalkrish26/Arisha-s-Photo-Album)
-Description of Project 1.
-
-### [Project 2 Name](link_to_project_2)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark)](link_to_project_2)
-Description of Project 2.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agarwalkrish26&show_icons=true&theme=dark)
 
 ## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/krishagarwal26/)
