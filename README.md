@@ -16,11 +16,9 @@
 
 ## My Projects  
 
-### [Labs](https://github.com/agarwalkrish26/Labs)
-[![Labs](https://github-readme-stats.vercel.app/api/pin/?username=agarwalkrish26&repo=Labs&theme=dark)](https://github.com/agarwalkrish26/Labs)  
-
-### [Arisha's Photo Album](https://github.com/agarwalkrish26/Arisha-s-Photo-Album)
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=agarwalkrish26&repo=Arisha-s-Photo-Album&theme=dark)](https://github.com/agarwalkrish26/Arisha-s-Photo-Album)
+| [Labs](https://github.com/agarwalkrish26/Labs) | [Arisha's Photo Album](https://github.com/agarwalkrish26/Arisha-s-Photo-Album) |
+|---|---|
+| [![Labs](https://github-readme-stats.vercel.app/api/pin/?username=agarwalkrish26&repo=Labs&theme=dark)](https://github.com/agarwalkrish26/Labs) | [![Arisha's Photo Album](https://github-readme-stats.vercel.app/api/pin/?username=agarwalkrish26&repo=Arisha-s-Photo-Album&theme=dark)](https://github.com/agarwalkrish26/Arisha-s-Photo-Album) |
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agarwalkrish26&show_icons=true&theme=dark)
