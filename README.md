@@ -16,6 +16,7 @@
 </div>
 
 ### <div align="center">✍️ Random Dev Quote</div>
+<hr>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/>
 </div>
