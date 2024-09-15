@@ -15,8 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agarwalkrish26&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-### <div align="center">✍️ Random Dev Quote</div>
 <hr>
+
+### <div align="center">✍️ Random Dev Quote</div>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/>
 </div>
